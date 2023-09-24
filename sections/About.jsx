@@ -22,19 +22,11 @@ const About = () => (
         variants={fadeIn('up', 'tween', 0.2, 1)}
         className="mt-[8px] font-normal sm:text-[32px] text-[20px] text-center text-secondary-white"
       >
-        <span className="font-extrabold text-white">Metaverse</span> is a new
-        thing in the future, where you can enjoy the virtual world by feeling
-        like it's really real, you can feel what you feel in this metaverse
-        world, because this is really the{' '}
-        <span className="font-extrabold text-white">
-          madness of the metaverse
-        </span>{' '}
-        of today, using only{' '}
-        <span className="font-extrabold text-white">VR</span> devices you can
-        easily explore the metaverse world you want, turn your dreams into
-        reality. Let's{' '}
-        <span className="font-extrabold text-white">explore</span> the madness
-        of the metaverse by scrolling down
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Mollitia neque tempora earum dolore in, rerum magni, doloremque placeat similique maxime aperiam harum repellendus facere voluptate sit, enim tempore culpa sed.
+        Consequuntur repellat nobis similique quasi nesciunt eius porro dolorem sint, ea, animi quo fugit laboriosam, saepe nihil quidem ducimus quisquam. Eveniet qui velit quibusdam voluptatem fugiat facere unde atque non.
+        Necessitatibus tempore quidem natus autem atque repudiandae quis quod ullam ratione velit modi asperiores temporibus exercitationem iusto fugiat minus omnis qui doloribus itaque ipsum quam, veniam fugit suscipit! Laborum, delectus.
+        Aliquid doloribus minus, sint ea similique commodi quo laborum blanditiis beatae sit assumenda veniam earum ullam quas eveniet ipsam? Minus quisquam blanditiis laboriosam architecto aut esse repellat laudantium voluptatum voluptate!
+        Accusamus asperiores rerum delectus magnam natus illum nobis quae debitis itaque labore vel iste pariatur, cum porro dolorem inventore sed, vitae ullam libero deleniti magni blanditiis iure repudiandae! Quos, itaque.5d
       </motion.p>
 
       <motion.img
